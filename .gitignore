@@ -1,0 +1,12 @@
+packages
+.settings
+pubspec.lock
+.buildlog
+.pub
+.idea
+.packages
+swift_cache_fs
+build
+/test/tmp
+.Rproj.user
+
